@@ -1,0 +1,2 @@
+include ':app', ':aidllib'
+rootProject.name='MyTestDemo'
